@@ -63,7 +63,7 @@ a.hire-button:hover {
 
 .project-show img {
     float: left;
-    width: 29%%;
+    width: 29%;
     margin-left: 3%;
     border: 1px solid tomato;
 }
@@ -81,7 +81,7 @@ a.hire-button:hover {
     text-align: center;
     background: #cacaca;
     color: rgb(54 48 84);
-    width: 55%;
+    width: 70%;
     margin: auto;
     padding: 12px;
     box-shadow: 1px 0px 14px blue;
@@ -90,4 +90,5 @@ a.hire-button:hover {
 
 footer{
     text-align: center;
+    margin-top: 25px;
 }
