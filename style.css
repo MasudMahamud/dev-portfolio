@@ -85,11 +85,15 @@ a.hire-button:hover {
     text-align: center;
     background: #cacaca;
     color: rgb(54 48 84);
-    width: 92%;
+    width: 95%;
     margin: auto;
-    padding: 3%;
+    padding: 1%;
     box-shadow: 1px 0px 14px blue;
     border-radius: 10px;
+}
+
+.contact p{
+    font-size: 28px;
 }
 
 footer{
