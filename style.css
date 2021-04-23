@@ -60,11 +60,15 @@ a.hire-button:hover {
     text-align: center;
 }
 
-
-.project-show img {
-    float: left;
-    width: 29%;
+.project-show{
+    display: inline;
     margin-left: 3%;
+    margin-bottom: 2%;
+    
+    
+}
+.project-show img {
+    width: 25%; 
     border: 1px solid tomato;
 }
 
@@ -81,9 +85,9 @@ a.hire-button:hover {
     text-align: center;
     background: #cacaca;
     color: rgb(54 48 84);
-    width: 70%;
+    width: 90%;
     margin: auto;
-    padding: 12px;
+    padding: 2%;
     box-shadow: 1px 0px 14px blue;
     border-radius: 10px;
 }
